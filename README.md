@@ -1,5 +1,4 @@
 ### Hello 👋 I am Abdulkader El Rawas, BSc. MSc. Computer Engineer 
-### I am interested mainly in Web, Game, and Software Development.
 ### You can reach me here : http://www.abdulkaderelrawas.com/contact-me/ . I always reply :)
 I speak 5 languages: Arabic (Native), English (Bilingual), Turkish (Fluent), French (Professional), and Russian (Professional).
 I have created the first ever Virtual Reality Project in TRNC (Northern-Cyprus).
