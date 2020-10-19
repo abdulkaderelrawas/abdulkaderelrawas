@@ -4,10 +4,8 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=abdulkaderelrawas)
 
+![stat](https://github-readme-stats.vercel.app/api?username=abdulkaderelrawas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
+
 I speak 5 languages: Arabic (Native), English (Bilingual), Turkish (Fluent), French (Professional), and Russian (Professional).
 
 I have created the first ever Virtual Reality Project in TRNC (Northern-Cyprus).
-
-As a Full Stack Web Developer in Cyprus International University, I Developed a system that uses students’ tests numeralizes MÜDEK’s (Association for Evaluation and Accreditation of Engineering Programs) Program Outcomes for all Engineering Departments, generates tests templates, generates test scores' excel sheets for teachers, inserts all data to the university system’s database, & organizes each teacher's students, *ALL AUTOMATED*. using: Laravel, MySQL & OCR/ICR Programs (ABBYY FlexiCapture).
-
-As an Intern at "Scope for IT Services" located in Beirut-Lebanon, I contributed to the teachers' portal of the "Best Mobile App" Award Winner "PlayMyWay" using: PHP, JavaScript, HTML, CSS, & Bootstrap.
